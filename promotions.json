@@ -12,6 +12,18 @@
       "title": "Joker & Joker Lover",
       "message": "The Joker and his queen. Wild couple wallpapers for true fans.",
       "icon": "https://raw.githubusercontent.com/MarouaneZarzar/JokerHappySad/main/promotions/icons/com.JokerAnd.HisGirlfriend.png"
+    },
+    {
+      "packageName": "com.Sad.Wallpapers",
+      "title": "Sad Wallpapers HD",
+      "message": "Alone, broken, deep. Wallpapers that match your mood.",
+      "icon": "https://raw.githubusercontent.com/MarouaneZarzar/JokerHappySad/main/promotions/icons/com.Sad.Wallpapers.png"
+    },
+    {
+      "packageName": "com.SadAnimeBoy.Wallpaper",
+      "title": "Sad Anime Boy Wallpaper",
+      "message": "Emotional anime art for quiet, rainy nights.",
+      "icon": "https://raw.githubusercontent.com/MarouaneZarzar/JokerHappySad/main/promotions/icons/com.SadAnimeBoy.Wallpaper.png"
     }
   ]
 }
