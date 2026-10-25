@@ -1,4 +1,9 @@
 {
+  "app": {
+    "latestVersionCode": 5,
+    "minVersionCode": 0,
+    "updateMessage": "A new version of Joker Wallpaper is ready with fresh features and improvements."
+  },
   "wallpapers": [
     { "id": 1, "url": "https://raw.githubusercontent.com/MarouaneZarzar/JokerHappySad/main/joker/images/1.jpg" },
     { "id": 2, "url": "https://raw.githubusercontent.com/MarouaneZarzar/JokerHappySad/main/joker/images/2.jpg" },
